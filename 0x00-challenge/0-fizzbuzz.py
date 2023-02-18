@@ -26,7 +26,6 @@ def fizzbuzz(n):
             tmp_result.append(str(i))
     print(" ".join(tmp_result))
 
-
 if __name__ == '__main__':
     if len(sys.argv) <= 1:
         print("Missing number")
@@ -36,4 +35,3 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-    
