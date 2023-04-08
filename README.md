@@ -1,17 +1,28 @@
-<h2> Background Context </h2>
-Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+# Fix My Code Challenge
+  Fix my code is a new type of project, where we'll jump into an existing code 
+base and fix it! This is done using pre-written repos as initial files for all 
+solutions. I'm not coding anything new, just fixing the existing code base.
 
-Sometimes you will know the language, sometimes not.
+This was a project provided by ALX in which I was challenged with debugging 
+various programs. The challenges spanned a variety of programming languages 
+from C to Python to Javascript to Ruby and more, some of which I was familiar 
+with, others of which I was not. The specific list of projects contained follows:
 
-Please download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
+* [0x00. Fix my code](./0x00-challenge)
 
-You should not recode everything, just fix it!
+## Author🖊️:
+* **[Nnonyelu Adaeze] <[TechSisAda](https://github.com/TechSisAda)>
 
-This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
+## Acknowledgements :pray:
 
-<h3> Requirements </h3>
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. 
+ALX Africa is an online full-stack software engineering program that prepares students for careers 
+in the tech industry using project-based peer learning. For more information, visit 
+[this link](https://www.alxafrica.com).
 
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS
-All your files should end with a new line
-A README.md file, at the root of the folder of the project is mandatory
+
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Africa Logo"
+  >
+  </p>
